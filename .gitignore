@@ -2,3 +2,5 @@
 /out/
 /.idea
 /algorithm.iml
+/src/baekjoon/BaekMain.java
+.gitignore
