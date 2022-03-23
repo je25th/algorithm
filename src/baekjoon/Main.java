@@ -2,6 +2,8 @@ package baekjoon;
 
 import baekjoon.codeplus300.Baek2609;
 import baekjoon.codeplus400.*;
+import baekjoon.codeplus500.Baek2309;
+import baekjoon.codeplus600.Baek13023;
 
 import java.io.*;
 
@@ -11,7 +13,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        Baek1912 sol = new Baek1912();
+        Baek13023 sol = new Baek13023();
         sol.solution(br,bw);
 
         bw.flush();
